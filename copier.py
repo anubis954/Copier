@@ -1,6 +1,9 @@
+#Imports
 import sys
 import getopt
+#End of imports
 
+#Main program
 defs = []
 undefs = []
 
@@ -81,4 +84,4 @@ def process(fpi, fpo):
 
 if __name__ == '__main__':
     main()
-#end of the program 
+#End of the program
